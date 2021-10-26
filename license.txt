@@ -1,0 +1,11 @@
+Model Information:
+* title:	glass
+* source:	https://sketchfab.com/3d-models/glass-a66688db6cc142bc8c277e6007a9df10
+* author:	zvoonk (https://sketchfab.com/zvoonk)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "glass" (https://sketchfab.com/3d-models/glass-a66688db6cc142bc8c277e6007a9df10) by zvoonk (https://sketchfab.com/zvoonk) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
